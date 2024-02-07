@@ -1,5 +1,7 @@
 # Capstone Project: Predictive Modeling & Dashboarding Analysis for Sneaker Resale Market
 
+## Tableau Dashboard Link:- https://public.tableau.com/views/Capstone_Project_Data_Analysis/Sheet2?:language=en-US&:display_count=n&:origin=viz_share_link 
+
 ## Overview
 
 This repository contains the code and documentation for a capstone project titled "Predictive Modeling & Dashboarding Analysis for Sneaker Resale Market." The project aims to leverage advanced data analytics techniques to analyze a dataset of sneaker resale transactions, develop predictive models, and create interactive dashboards to showcase key insights and trends in the sneaker resale market.
